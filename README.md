@@ -4,7 +4,7 @@
 
 >>>> | React | Projects |
 ### Tourist Guide(React): https://tourist-guide-24ebc.web.app/ 
-### Genious Car Services(React): https://genius-movie-car-series.web.app/
+### Genius Car Services(React): https://genius-movie-car-series.web.app/
 ### Movie Review(React): https://movie-reviwer-react-js.netlify.app/ 
 ### EcommerceApp(react) : [https://ema-jhon-e-commerce-react-app.netlify.app/](https://ema-jhon-e-commerce-react-app.netlify.app/)
 
